@@ -1,7 +1,7 @@
 # Tic-Tac-Toe Tutorial 
 ## 1. How to run project in local:
 ```bash
-git clone www.github.com/nqq203/tic-tac-toe
+git clone http://github.com/nqq203/tic-tac-toe.git
 npm install
 npm start
 ```
